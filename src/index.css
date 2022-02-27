@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wheat-color{
+  color: wheat;
+}
+.bg-texture{
+  background: linear-gradient(124deg, #011e39, #778b98);
+}
